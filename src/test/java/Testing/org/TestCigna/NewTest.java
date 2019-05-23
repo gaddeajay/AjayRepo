@@ -9,7 +9,7 @@ public class NewTest {
 	  try
 	  {
 		  
-		  System.out.println("TestName Parameter From Jenkins = "+ System.getenv("TestName"));
+		  //System.out.println("TestName Parameter From Jenkins = "+ System.getenv("TestName"));
 		  System.out.println("In Test Method");
 	  }
 	  catch(Exception e)
